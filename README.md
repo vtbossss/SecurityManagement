@@ -1,4 +1,4 @@
-# Security Management DBMS(ODBC TOOL)
+# Security Management Database Management System using python-mysql Connector(PY-ODBC TOOL)
 
 ## Overview
 A Security Management Database Management System (DBMS) using MySQL, with a Python interface for managing security-related data.
