@@ -1,4 +1,4 @@
-# Security Management Database Management System
+# Security Management System
 
 ## Overview
 A Security Management Database Management System (DBMS) using MySQL, with a Python interface for managing security-related data.
